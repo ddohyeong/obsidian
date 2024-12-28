@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "2a7744154a7cad22",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82d4b0592f12171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8723c28fe56878f",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "Excalidraw/CS-mindmap.md"
+              },
+              "icon": "blocks",
+              "title": "CS-mindmap"
+            }
+          },
+          {
+            "id": "7934f95cca58fd2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/java/2024-12-28-와일드카드.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-28-와일드카드"
+            }
+          },
+          {
+            "id": "d5a2f22aa2be28a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46761aa16e07c385",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff7258da04edab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e3264909fb1b8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c61752fa140996c",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-keep",
+              "state": {},
+              "icon": "lucide-files",
+              "title": "Google Keep"
+            }
+          },
+          {
+            "id": "add6f006317a820d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JPA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.50260543823242
+  },
+  "right": {
+    "id": "1ffd468c2f758a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "7998ac3709842fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a256636199ba1f1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "85dc525cd6a0aceb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "backend/java/2024-12-28-와일드카드.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-28-와일드카드"
+            }
+          },
+          {
+            "id": "90d210765d3aea43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "backend/java/2024-12-28-와일드카드.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-28-와일드카드"
+            }
+          },
+          {
+            "id": "df3eaab87f3f8a54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae2fbc4de295d329",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "backend/java/2024-12-28-와일드카드.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-28-와일드카드"
+            }
+          },
+          {
+            "id": "d8b261baba5f82bc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Notion": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7934f95cca58fd2a",
+  "lastOpenFiles": [
+    "backend/java/2024-12-28-와일드카드.md",
+    "backend/java/2024-12-21-제네릭.md",
+    "backend/coding_test/inflearn/algorithm/2024-12-03-누적합 알고리즘.md",
+    "CS/2024-10-30-티스토리 스킨 설정.md",
+    "Excalidraw/Drawing 2024-12-28 20.41.57.excalidraw.md",
+    "backend/coding_test/inflearn/algorithm/2024-11-29-DP(다이나믹 프로그래밍).md",
+    "backend/coding_test/inflearn/algorithm/2024-11-29-시간복잡도 , 공간복잡도.md",
+    "backend/coding_test/inflearn/algorithm/2024-11-26-조합과 순열.md",
+    "backend/coding_test/inflearn/algorithm/2024-11-26-재귀함수.md",
+    "backend/coding_test/inflearn/algorithm/2024-08-22-브루트포스.md",
+    "backend/coding_test/inflearn/algorithm/2024-08-21-정렬.md",
+    "Excalidraw/CS-mindmap.md",
+    "Untitled mindmap.md",
+    "2024-12-28.md",
+    "Excalidraw/Drawing 2024-12-28 20.18.32.excalidraw.md",
+    "Excalidraw/mindmap_cs.excalidraw.md",
+    "Excalidraw",
+    "backend/java/Untitled.md",
+    "Untitled.md",
+    "backend/toy_project/2024-11-24-멀티모듈 설정 정리.md",
+    "backend/toy_project/2024-11-24-리뷰 프로젝트3.md",
+    "backend/toy_project/2024-11-15-리뷰 프로젝트2.md",
+    "backend/toy_project/2024-11-13-리뷰 프로젝트.md",
+    "Reflection/2024-11-12-2024년 11월 2주차 시작회고.md",
+    "backend/kafca/2024-06-07-카프카 이해하기.md",
+    "Untitled 1.md",
+    "backend/java/java.md",
+    "backend/java",
+    "Reflection",
+    "backend/toy_project",
+    "etc",
+    "무제 폴더",
+    "backend/coding_test/inflearn/sol",
+    "backend/coding_test/inflearn/algorithm",
+    "backend/coding_test/inflearn",
+    "CS",
+    "Pasted image 20240507210510.png",
+    "Pasted image 20240507210754.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
+  "blue-topaz-theme@@background-image-settings-command-palette-same-as-workplace": false,
+  "blue-topaz-theme@@background-image-settings-command-palette-custom": false,
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@font-family-change-to-default": false,
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
+  "blue-topaz-theme@@bg-markdown-page-opacity-cp": 0.25,
+  "blue-topaz-theme@@font-size-code": "0.9em"
+}

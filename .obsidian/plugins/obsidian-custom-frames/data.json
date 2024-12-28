@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://keep.google.com",
+      "displayName": "Google Keep",
+      "icon": "files",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* hide the menu bar, the \"Keep\" text and the Google Apps button */\nhtml > body > div:nth-child(2) > div:nth-child(2) > div:first-child,\nhtml > body > div:first-child > header:first-child > div > div:first-child > div > div:first-child > a:first-child > span,\nhtml > body > div:first-child > header:first-child > div:nth-child(2) > div:first-child > div:first-child,\nhtml > body > div:first-child > header:first-child > div:nth-child(2) > div:nth-child(3) > div:first-child > div:first-child > div:first-child {\n\tdisplay: none !important;\n}\nhtml > body > div:first-child > header:first-child > div > div:first-child > div > div:first-child > a:first-child {\n\tcursor: default;\n}",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.notion.so/",
+      "displayName": "Notion",
+      "icon": "box",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://todoist.com",
+      "displayName": "Todoist",
+      "icon": "list-checks",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* hide the help, home, search, and productivity overview buttons, create extra space, and prevent toast pop-up from acting weird */\n[aria-label=\"Go to Home view\"], #quick_find, [aria-label=\"Productivity\"], [aria-label=\"Help & Feedback\"] {\n\tdisplay: none !important;\n}\n\n.view_content {\n\tpadding-left: 15px;\n}\n\n.view_header {\n\tpadding-left: 15px;\n\tpadding-top: 10px;\n}\n\n.undo_toast {\n\twidth: 95%;\n}",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
