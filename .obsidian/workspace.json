@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "73daffe4ab34fffd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "918bd0adecfdf31b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "587155a2c26ee713",
@@ -195,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e684042f3ea7ec8a",
+  "active": "68f4066072a2544b",
   "lastOpenFiles": [
     "무제.canvas",
     "환영합니다!.md"
